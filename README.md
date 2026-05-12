@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Rivka Perez 👋
+### Full-Stack Software Developer | Specialized in .NET & Angular
 
-<!--
-**rivky9523/rivky9523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a highly analytical Full-Stack Developer with a passion for clean code and modern web architectures. Currently, I'm contributing to pension management systems at the Ministry of Education, focusing on high-scale systems and AI integration.
 
-Here are some ideas to get you started:
+- 🔭 **Current Focus:** Developing complex ERP systems using .NET 9 and Angular 18.
+- 🎓 **Education:** Software Practical Engineer (Handesai) - Graduated with Exceptional Excellence.
+- 🤖 **AI Enthusiast:** Experienced in AI Agents, GitHub Copilot, and LLM implementations.
+- 🌍 **Languages:** Native Hebrew & Native English speaker.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Technical Stack
+
+**Backend:** C#, .NET 9, Node.js, Java, Python, RESTful APIs
+**Frontend:** Angular 18, React, TypeScript, HTML5/CSS3
+**Data & Cloud:** Oracle, SQL Server, MongoDB, AWS (S3, Lambda, EC2)
+**DevOps & Tools:** Git/GitHub, Docker, Azure DevOps, Postman
