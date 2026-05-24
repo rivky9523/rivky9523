@@ -19,6 +19,7 @@ ______________________________________________________________________________
 **DevOps & Tools:** Git/GitHub, Docker, Azure DevOps, Postman
 ______________________________________________________________________________
 
-🤝 Connect with Me
-📧 Email: r0548551732@gmail.com
-💼 GitHub Portfolio: github.com/rivky9523
+## 🤝 Connect with Me
+
+* 📧 **Email:** [r0548551732@gmail.com](mailto:r0548551732@gmail.com)
+* 🐙 **GitHub:** [github.com/rivky9523](https://github.com/rivky9523)
