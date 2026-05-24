@@ -19,4 +19,4 @@ ______________________________________________________________________________
 
 🤝 Connect with Me
 📧 Email: r0548551732@gmail.com
-💼 GitHub Portfolio: github.com/rivky9523
+💼 GitHub Portfolio: [github.com/rivky9523]
