@@ -7,7 +7,7 @@ I am a highly analytical Full-Stack Developer with a passion for clean code and 
 - 🤖 **AI Enthusiast:** Experienced in AI Agents, GitHub Copilot, and LLM implementations.
 - 🌍 **Languages:** Native Hebrew & Native English speaker.
 
----
+_____________________________________________________________________________
 
 ### 💻 Technical Stack
 
@@ -15,7 +15,7 @@ I am a highly analytical Full-Stack Developer with a passion for clean code and 
 **Frontend:** Angular 18, React, TypeScript, HTML5/CSS3
 **Data & Cloud:** Oracle, SQL Server, MongoDB, AWS (S3, Lambda, EC2)
 **DevOps & Tools:** Git/GitHub, Docker, Azure DevOps, Postman
-
+______________________________________________________________________________
 
 🤝 Connect with Me
 📧 Email: r0548551732@gmail.com
