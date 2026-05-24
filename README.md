@@ -1,6 +1,5 @@
 
 👋 Hi, I'm Rivky Peretz
-
 Full-Stack Software Developer | Specialized in .NET & Angular
 
 I am a highly analytical Full-Stack Developer with a passion for clean code and modern web architectures. Currently, I'm contributing to pension management systems at the Ministry of Education, focusing on high-scale systems and AI integration.
