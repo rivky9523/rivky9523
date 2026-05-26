@@ -15,10 +15,10 @@ ______________________________________________________________________________
 
 ### 💻 Technical Stack
 
-**Backend:** `C#` `.NET 9` ` Node.js` `Java` `Spring` `Python` `RESTful APIs` 
-**Frontend:** `Angular 21` `React` `TypeScript` `HTML5/CSS3`
-**Data & Cloud:** `Oracle` `SQL Server` `MongoDB` `AWS` `NoSql`
-**DevOps & Tools:** `Git/GitHub` `Docker` `Azure DevOps` `Postman`
+- Backend: `C#` `.NET 9` ` Node.js` `Java` `Spring` `Python` `RESTful APIs` 
+- Frontend: `Angular 21` `React` `TypeScript` `HTML5/CSS3`
+- Data & Cloud: `Oracle` `SQL Server` `MongoDB` `AWS` `NoSql`
+- DevOps & Tools: `Git/GitHub` `Docker` `Azure DevOps` `Postman`
 ______________________________________________________________________________
 
 ## 🤝 Connect with Me
