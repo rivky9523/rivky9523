@@ -15,7 +15,7 @@ ______________________________________________________________________________
 
 ### 💻 Technical Stack
 
-**Backend:** C#, .NET 9, Node.js, Java, Python, RESTful APIs
+**Backend:** `C#` `.NET 9` , Node.js, Java, Python, RESTful APIs
 **Frontend:** Angular 18, React, TypeScript, HTML5/CSS3
 **Data & Cloud:** Oracle, SQL Server, MongoDB, AWS (S3, Lambda, EC2)
 **DevOps & Tools:** Git/GitHub, Docker, Azure DevOps, Postman
