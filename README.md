@@ -1,5 +1,5 @@
 
-👋 Hi, I'm Rivky Peretz
+👋 Hi, I'm Rivka Peretz
 
 Full-Stack Software Developer 
 
